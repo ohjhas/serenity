@@ -1,6 +1,7 @@
 echo Build using mkarchiso
 echo OmegaLinux NEXT build ¡START!
 rm -rf ISOs/*
+rm -rf WorkDir/
 sudo mkarchiso -v -r -w WorkDir -o ISOs Sources/
 echo OmegaLinux NEXT build ¡FINISH!
 ((sec=SECONDS%60, min=SECONDS/60%60, hrs=SECONDS/3600))
