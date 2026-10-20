@@ -1,4 +1,4 @@
-@/usr/fancy-stuff/lxpanel.sh
+@lxpanel --profile LXDE
 @pcmanfm --desktop --profile LXDE
 @xscreensaver -no-splash
 @/usr/fancy-stuff/bootsd.sh
