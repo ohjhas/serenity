@@ -149,8 +149,7 @@ lxsession
 calamares
 archiso-calamares-config
 gpicview
-celluloid
-libmpv-git
+mpv
 mousepad
 galculator
 gnome-screenshot
