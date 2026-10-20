@@ -4,11 +4,11 @@
 Global {
   edge=bottom
   monitor=0
-  height=36
+  height=34
   align=center
   width=100
-  iconsize=30
-  transparent=1
+  iconsize=28
+  transparent=0
   background=0
   tintcolor=#000000
   alpha=0
@@ -48,10 +48,10 @@ Plugin {
       id=lxterminal.desktop
     }
     Button {
-      id=olinux-tutorial.desktop
+      id=lxde-settings.desktop
     }
     Button {
-      id=calamares.desktop
+      id=org.gnome.Screenshot.desktop
     }
     IconsOnly=-1
     FlatButton=0
@@ -64,10 +64,8 @@ Plugin {
   }
 }
 Plugin {
-  type=volume
+  type=winvolume
   Config {
-    CardNumber=0
-    MasterChannel=Master
   }
 }
 Plugin {
