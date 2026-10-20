@@ -1,9 +1,9 @@
-NAME="OmegaLinux NEXT"
-PRETTY_NAME="OmegaLinux NEXT Deep Blue Sea R3"
+NAME="Serenity"
+PRETTY_NAME="Serenity"
 ID=arch
 BUILD_ID=rolling
 ANSI_COLOR="38;2;23;147;209"
-HOME_URL="https://omega-linux.github.io/page/"
+HOME_URL="https://google.com"
 DOCUMENTATION_URL="https://wiki.archlinux.org/"
 SUPPORT_URL="https://bbs.archlinux.org/"
 BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"

@@ -1,2 +1,0 @@
-[Command]
-Logout=lxsession-logout --banner "/usr/fancy-stuff/logout-banner.png" --side=top

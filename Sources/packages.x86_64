@@ -129,40 +129,30 @@ fuse2
 #bolt
 #xfsprogs
 
-# lxde stuff
-lxappearance
-lxappearance-obconf
-lxde-common
-lxde-icon-theme
-lxhotkey
-lxinput
-lxpanel
-lxrandr
-lxtask
-lxterminal
-openbox
-pcmanfm
-lxsession
+# packages names say it all
+pantheon
+pantheon-session
+lightdm
+lightdm-pantheon-greeter
+pantheon-default-settings
+elementary-icon-theme
+elementary-wallpapers
+gtk-theme-elementary
+ttf-droid
+ttf-opensans
+ttf-roboto
+sound-theme-elementary
+switchboard
 
-
-# desktop apps unrelated to lxde
+# desktop apps unrelated to pantheon
 calamares
 archiso-calamares-config
-gpicview
 mpv
-mousepad
-galculator
 gnome-screenshot
-xarchiver
 pavucontrol
-lightdm
-lightdm-slick-greeter
 gnome-disk-utility
 blueman
-network-manager-applet
-xscreensaver
 firefox
-ol-settings
 
 # graphics
 mesa
@@ -176,7 +166,6 @@ htop
 wget
 git
 rsync
-sox
 7zip
 xz
 unrar
