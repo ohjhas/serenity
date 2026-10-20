@@ -29,4 +29,5 @@ file_permissions=(
   ["/usr/fancy-stuff/freemyram.sh"]="0:0:755"
   ["/usr/fancy-stuff/lxpanel.sh"]="0:0:755"
   ["/usr/fancy-stuff/usbsound.sh"]="0:0:755"
+  ["/usr/fancy-stuff/rmcl.sh"]="0:0:755"
 )

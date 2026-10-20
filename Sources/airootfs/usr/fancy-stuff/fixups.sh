@@ -6,3 +6,6 @@
 pacman-key --init
 pacman-key --populate archlinux
 pacman -Sy
+
+# remove calamares shortcut on desktop
+/usr/fancy-stuff/rmcl.sh
