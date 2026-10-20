@@ -24,10 +24,8 @@ file_permissions=(
   ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/Installation_guide"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
-  ["/usr/bin/langman"]="0:0:755"
   ["/usr/fancy-stuff/bootsd.sh"]="0:0:755"
   ["/usr/fancy-stuff/freemyram.sh"]="0:0:755"
-  ["/usr/fancy-stuff/lxpanel.sh"]="0:0:755"
   ["/usr/fancy-stuff/usbsound.sh"]="0:0:755"
   ["/usr/fancy-stuff/rmcl.sh"]="0:0:755"
 )
